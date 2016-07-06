@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7624CB08D71724C50889E80075EBCBB419DCB881",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D0F86D6EEF9635C323E138680EF2A6E16966CE96" : 0,
+    "7624CB08D71724C50889E80075EBCBB419DCB881" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6A736706-0EA1-4FA3-83E4-5D5475C8D26F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D0F86D6EEF9635C323E138680EF2A6E16966CE96" : "",
+    "7624CB08D71724C50889E80075EBCBB419DCB881" : "Alcolator3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Alcolator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Alcolator\/Alcolator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:stephenkais\/Alcolator3",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7624CB08D71724C50889E80075EBCBB419DCB881"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:stephenkais\/Alcolator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0F86D6EEF9635C323E138680EF2A6E16966CE96"
+    }
+  ]
+}

@@ -15,6 +15,7 @@
 		D6A781641D2DC7A100BC5447 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6A781621D2DC7A100BC5447 /* LaunchScreen.storyboard */; };
 		D6A7816F1D2DC7A100BC5447 /* AlcolatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D6A7816E1D2DC7A100BC5447 /* AlcolatorTests.m */; };
 		D6A7817A1D2DC7A100BC5447 /* AlcolatorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D6A781791D2DC7A100BC5447 /* AlcolatorUITests.m */; };
+		D6A781891D2DCF4800BC5447 /* WhiskeyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D6A781881D2DCF4800BC5447 /* WhiskeyViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		D6A781751D2DC7A100BC5447 /* AlcolatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlcolatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6A781791D2DC7A100BC5447 /* AlcolatorUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlcolatorUITests.m; sourceTree = "<group>"; };
 		D6A7817B1D2DC7A100BC5447 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6A781871D2DCF4800BC5447 /* WhiskeyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhiskeyViewController.h; sourceTree = "<group>"; };
+		D6A781881D2DCF4800BC5447 /* WhiskeyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhiskeyViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 		D6A781481D2DC7A000BC5447 = {
 			isa = PBXGroup;
 			children = (
+				D6A781871D2DCF4800BC5447 /* WhiskeyViewController.h */,
+				D6A781881D2DCF4800BC5447 /* WhiskeyViewController.m */,
 				D6A781531D2DC7A100BC5447 /* Alcolator */,
 				D6A7816D1D2DC7A100BC5447 /* AlcolatorTests */,
 				D6A781781D2DC7A100BC5447 /* AlcolatorUITests */,
@@ -271,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6A7815C1D2DC7A100BC5447 /* ViewController.m in Sources */,
+				D6A781891D2DCF4800BC5447 /* WhiskeyViewController.m in Sources */,
 				D6A781591D2DC7A100BC5447 /* AppDelegate.m in Sources */,
 				D6A781561D2DC7A100BC5447 /* main.m in Sources */,
 			);
